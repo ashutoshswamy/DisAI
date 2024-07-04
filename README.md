@@ -28,6 +28,10 @@ You can create your own bot like this bu just following these simple steps :-
 
 - Once the bot is online you can use all the commands in the Discord server in which your bot is present
 
+## How can you use DisAI?
+
+Just join this server using this link - https://discord.gg/XESKaqvpVx
+
 ## Screenshots
 
 ![Screenshot 2024-07-04 231736](https://github.com/ashutoshswamy/DisAI/assets/76511506/bc739ba0-9860-4571-93b9-e7244aebf470)
