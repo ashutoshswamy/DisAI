@@ -30,7 +30,7 @@ You can create your own bot like this bu just following these simple steps :-
 
 ## How can you use DisAI?
 
-Just join this server using this link - https://discord.gg/XESKaqvpVx
+Just join this server using this link - [Click Here](https://discord.gg/ngtRwQX5hX)
 
 Or just invite this bot to your server - [Click Here](https://discord.com/oauth2/authorize?client_id=1258429180681523342&permissions=8&integration_type=0&scope=bot+applications.commands)
 
