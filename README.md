@@ -1,6 +1,6 @@
 # DisAI
 
-DisAI is a discord bot which used Google's Gemini API to extract data.
+DisAI is a discord bot which uses Google's Gemini API to extract data.
 
 ![Banner](https://github.com/ashutoshswamy/DisAI/assets/76511506/12f79ea3-1b20-4b31-a0c8-e2e37caaece9)
 
