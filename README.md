@@ -32,6 +32,8 @@ You can create your own bot like this bu just following these simple steps :-
 
 Just join this server using this link - https://discord.gg/XESKaqvpVx
 
+Or just invite this bot to your server - [Click Here](https://discord.com/oauth2/authorize?client_id=1258429180681523342&permissions=8&integration_type=0&scope=bot+applications.commands)
+
 ## Screenshots
 
 ![Screenshot 2024-07-04 231736](https://github.com/ashutoshswamy/DisAI/assets/76511506/bc739ba0-9860-4571-93b9-e7244aebf470)
