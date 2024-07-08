@@ -5,9 +5,12 @@ const discord = require("discord.js");
 module.exports = {
   data: new discord.SlashCommandBuilder()
     .setName("prompt")
-    .setDescription("Enter your prompt")
+    .setDescription("Ask your questions here")
     .addStringOption((option) =>
-      option.setName("prompt").setDescription("Prompt here").setRequired(true)
+      option
+        .setName("prompt")
+        .setDescription("Enter your prompt")
+        .setRequired(true)
     ),
   /**
    * @param {discord.Client} client
