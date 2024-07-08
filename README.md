@@ -10,6 +10,8 @@ DisAI is a discord bot which uses Google's Gemini API to extract data.
 
 - `/prompt` - This command is for asking questions to the bot so the bot can give you answers by extracting the data using the Google's Gemini API.
 
+- `/ping` - This shows the bot's latency and uptime.
+
 ## How to create your own bot like this?
 
 You can create your own bot like this bu just following these simple steps :-
